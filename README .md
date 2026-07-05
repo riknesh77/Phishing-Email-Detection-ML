@@ -1,4 +1,4 @@
-# Phishing Email Detection - Data Science Group 7 Assignment
+# Phishing Email Detection 
 
 ## 📊 Project Overview
 
