@@ -1,0 +1,55 @@
+# R-specific files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rapp.history
+
+# History files
+.history
+.Rapp.history
+
+# Session Data files
+.RDataTmp
+
+# User-specific files
+.Rbuildignore
+
+# Shiny files
+shiny_bookmarks/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files (optional - uncomment if you want to exclude large data files)
+# *.csv
+# *.xlsx
+# *.xls
+
+# Temporary files
+*.tmp
+*.log
+*.aux
+
+# OS files
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Node modules (if using Shiny with npm packages)
+node_modules/
