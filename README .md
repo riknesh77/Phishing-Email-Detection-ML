@@ -139,13 +139,6 @@ The dashboard will open in your browser at `http://localhost:3838`
 
 ---
 
-## 👥 Team Members
-
-- Team Member 1
-- Team Member 2
-- Team Member 3
-
----
 
 ## 📝 Methods & Technologies
 
@@ -216,18 +209,5 @@ Edit `dashboard/app.R` to:
 - [Machine Learning in R](https://www.analyticsvidhya.com/blog/2016/08/practicing-machine-learning-techniques-in-r/)
 
 ---
-
-## 📄 License
-
-[Specify license: MIT, CC0, GPL, or Academic Use Only]
-
----
-
-## 📧 Questions or Issues?
-
-For questions about this project, please contact the team or create an issue on the GitHub repository.
-
----
-
-**Last Updated**: March 2026  
+ 
 **Status**: Completed Assignment
