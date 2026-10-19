@@ -68,8 +68,8 @@ install.packages(c(
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/DataScienceGroup7Assignment.git
-   cd DataScienceGroup7Assignment
+   git clone https://github.com/riknesh77/Phishing-Email-Detection-ML.git
+   cd Phishing-Email-Detection-ML
    ```
 
 2. **Install dependencies**
